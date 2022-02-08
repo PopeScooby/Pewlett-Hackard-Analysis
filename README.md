@@ -1,7 +1,7 @@
 # Pewlett-Hackard-Analysis
 ## Overview of Analysis
 
-### A 
+### Due to an large amount of impending retirements in the Pewlett-Hackard company, we have been tasked with analyzing company data to establish how many and which employees will be retiring to assist in preperation. We will also detrmine which of the retiring employees might make good mentors for the new employees that will be brought on to replace the retirees.
 
 ## Retirement/Mentor Analysis Results
 
