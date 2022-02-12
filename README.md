@@ -6,12 +6,12 @@
 ## Retirement/Mentor Analysis Results
 
 ### In this analysis we looked at 
-  -  At a 
-  -  At the 
-  -  When looking ![Top 5 Before](Resources/Top5_Old.PNG) Scores After Change ... ![Top 5 After](Resources/Top5_New.PNG)
-  -  Here 
+  -  How Many People are retiring 
+  -  How the retirees break down
+  -  How many mentors available ... ![Top 5 After](Resources/Top5_New.PNG)
+  -  How mentor qty compares to retiring qty.
 
 ## Summary
 
-  As can be seen above, 
+  As can be seen above,...Look at title of mentors to compare qty/title retiring to qty/title mentoring...look at when mentors were hired (someone who just started working there might not be a good mentor.)...Look at when people are retireing we looked at 3 years, break down data by year to figure out what positions need to be filled first...
 
